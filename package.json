@@ -1,0 +1,15 @@
+{
+    "repository": "#",
+    "license": "UNLICENSED",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "serve": "vite preview"
+    },
+    "dependencies": {
+        "three": "0.133.1"
+    },
+    "devDependencies": {
+        "vite": "2.6.10"
+    }
+}
